@@ -1,6 +1,6 @@
-### Hello, world! 👋
-
 # Rodrigo Ferreira
+
+### Hello, world! 👋
 
 - :necktie: I’m not working currently :scream:
 - :rocket: In love with Node.js, ReactJS, React Native
