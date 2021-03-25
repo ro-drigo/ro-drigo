@@ -4,7 +4,6 @@
 
 ### Hello, world! 👋
 
-- :necktie: I’m not working currently :scream:
 - :rocket: In love with Node.js, ReactJS, React Native
 - :two_men_holding_hands: I’m looking to collaborate on any good project!
 - :muscle: I can help you with Node.js and other things you need 
